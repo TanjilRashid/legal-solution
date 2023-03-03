@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700;800&display=swap,https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{font-family: 'Poppins', sans-serif;}
+h1, h2, h3, h4{font-family: 'EB Garamond', serif;}
+p, a{color: #707070;}
+.cta-button{
+    padding: 18px 36px;
+    color: #FFF;
+    background-color: #B68C5A;
+    border-radius: 8px;
+}
+.banner-gradient, .review-gradient{
+    background: linear-gradient(180deg, rgba(17, 17, 17, 0) 0%, #111111 100%);
+}
